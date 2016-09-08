@@ -1,4 +1,6 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
 body {
-  font-family:'Segoe UI', Helvetica, sans-serif;
+  font-family:'Open Sans', sans-serif;
   background-color:#FFF;
 }
